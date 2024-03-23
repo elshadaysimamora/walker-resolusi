@@ -2,3 +2,4 @@
   * fitur untuk Puskesmas
 - Mebuat portofolio
   * Dari web programming unpas
+- Belajar lebih giat lagi tentang konsep
