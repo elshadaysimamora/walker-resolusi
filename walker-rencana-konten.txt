@@ -1,5 +1,7 @@
 - Membuat fitur website PSI
   * fitur untuk Puskesmas
+    * verifikasi
+    * about us
 - Mebuat portofolio
   * Dari web programming unpas
 - Belajar lebih giat lagi tentang konsep
